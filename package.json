@@ -1,0 +1,19 @@
+{
+  "name": "mocha-unit-test",
+  "description": "Crea tus librerías y tests con mocha",
+  "version": "1.0.0",
+  "main": "lib/ManejoString.js",
+  "author": "Nicolas Riesco",
+  "scripts": {
+    "start": "node app",
+    "test": "mocha test --ui bdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nriesco/mocha-unit-test.git"
+  },
+  "dependencies": {
+    "mocha": "^2.3.3",
+    "should": "^7.1.0"
+  }
+}
