@@ -10,7 +10,7 @@ describe("Async", function() {
     // validara que podamos leer el resultado
     // fail!
     // it("prueba async 1", function() {
-    //   Async.leerContenidoDeArchivo(__dirname + "/files/holaMundo.txt").should.equal("hola hola hola...."); // así sería si fuera sync
+    //   Async.leerContenidoDeArchivo(__dirname + "/files/holaMundo.txt").should.equal("hola mundo!"); // así sería si fuera sync
     // });
 
     // validar que funcione
