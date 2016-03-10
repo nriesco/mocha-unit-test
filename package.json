@@ -13,7 +13,7 @@
     "url": "https://github.com/nriesco/mocha-unit-test.git"
   },
   "dependencies": {
-    "mocha": "^2.3.3",
-    "should": "^7.1.0"
+    "mocha": "^2.4.5",
+    "should": "^8.2.2"
   }
 }
