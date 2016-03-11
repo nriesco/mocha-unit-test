@@ -1,0 +1,16 @@
+{
+  "name": "mocha-unit-test-app",
+  "description": "Aplicación de pruebas para mocha-unit-test",
+  "version": "1.0.0",
+  "author": "Nicolas Riesco",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nriesco/mocha-unit-test-app.git"
+  },
+  "dependencies": {
+    "mocha-unit-test": "^1.0.0"
+  }
+}
